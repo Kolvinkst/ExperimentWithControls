@@ -16,6 +16,6 @@
             <RowDefinition/>
             <RowDefinition Height="0.5*"/>
         </Grid.RowDefinitions>
-
+        <Label Content="Enter a number" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18"/>
     </Grid>
 </Window>
